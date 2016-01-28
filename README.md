@@ -11,6 +11,8 @@ For more information, please check out the [Habitat Wiki](../../wiki)
 
 ## Differences than the original
 
+This version is based on Tag 1 of Habitat. After new stable releases are out - it will be updated. It will NOT follow the master branch, only tagged revisions.
+
 This version of Habitat is using Team Development For Sitecore for Item Serialization and Deployments.
 
 Team Development for Sitecore is a Visual Studio plug-in managed by Hedgehog Development. At its core, it provides companies with the ability to automate their Sitecore builds or set up a continuous deployment scenarios. TDS provides several additional features its users find valuable, for more information visit: www.teamdevelopmentforsitecore.com.
